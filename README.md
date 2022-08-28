@@ -1,9 +1,9 @@
 # lru-cache-simulator
-  *Author: Alvin Hong
-  *Date Completed: April 15, 2022
-  *Course: ECE/CS 250, Duke University, Durham, NC
-  *Term: Spring 2022
-  *Professor Daniel J. Sorin
+  * Author: Alvin Hong
+  * Date Completed: April 15, 2022
+  * Course: ECE/CS 250, Duke University, Durham, NC
+  * Term: Spring 2022
+  * Professor Daniel J. Sorin
   
  # Cache Characteristics
   LRU (Least Recently Used) replacement algorithm
